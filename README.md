@@ -1,2 +1,4 @@
-Internship project
-    Crawl a website and create a database of indian movie celebrities
+Internship project:
+
+    Crawl a website and create a database of indian movie celebrities.
+Pre-requisities
