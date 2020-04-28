@@ -9,3 +9,7 @@ Requirements:
            scrapy crawl spider_name
     3. To store crawled data to a json/xml/csv(extension) file
            scrapy crawl spider_name -o filename.extension
+    4. To store crawled data to a database
+           (Here sqlite3 database is used ,which is stored in c.csv file)
+                        
+                         
